@@ -22,8 +22,8 @@
         "l10n",
         "ender"
     ],
-    "main": "./moment.js",
-    "module": "./src/moment.js",
+    "main": "./min/moment.min.js",
+    "module": "./min/moment.min.js",
     "typings": "./moment.d.ts",
     "engines": {
         "node": "*"
